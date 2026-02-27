@@ -1,6 +1,6 @@
 cask "prdashboard" do
-  version "1.0.9"
-  sha256 "607d894073436ab155f23bdab8ee0e76f588aff2297ac6f003db67324faa119c"
+  version "1.1.2"
+  sha256 "64e58b55b56e7d99073849c465b0fb6a437f9a473af477a1ff432e787d7a1925"
 
   url "https://github.com/xiaocang/ghpr-view/releases/download/v#{version}/PRDashboard-#{version}.zip"
   name "PRDashboard"
